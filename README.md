@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=50&duration=2500&pause=1000&color=FF1511&vCenter=true&width=435&height=100&lines=salut+!;ol%C3%A1+!;¡+hola+!;hello+!)
-
-› im pedro, a junior student in a technical high school program focused on informatics: _ifsul charqueadas_.<br> 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Neulis&size=50&duration=2500&pause=1000&color=FF1511&vCenter=true&width=435&height=100&lines=salut+!;ol%C3%A1+!;¡+hola+!;hello+!)<br>> im pedro, a junior student in a technical high school program focused on informatics: _ifsul charqueadas_.<br> 
 › currently developing skills in **web development** and **data science**.<br> 
 
 #### › find me
