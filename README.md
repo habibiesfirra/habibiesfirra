@@ -30,7 +30,6 @@
 ![postman](https://img.shields.io/badge/postman-FF1511?logo=postman&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-FF1511?logo=docker&logoColor=white)
 ![composer](https://img.shields.io/badge/composer-FF1511?logo=composer&logoColor=white)
-![figma](https://img.shields.io/badge/figma-FF1511?logo=figma&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-FF1511?logo=markdown&logoColor=white)
 ![latex](https://img.shields.io/badge/latex-FF1511?logo=latex&logoColor=white)
 
